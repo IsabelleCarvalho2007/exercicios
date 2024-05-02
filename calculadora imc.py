@@ -1,5 +1,5 @@
-peso = float(input("digite seu peso:"))
-altura = float(input("digite sua altura:"))
+peso = float(input("Digite seu peso:"))
+altura = float(input("Digite sua altura:"))
 imc = (peso/(altura*altura))
 if imc <= 18.5:
     print("magreza")
