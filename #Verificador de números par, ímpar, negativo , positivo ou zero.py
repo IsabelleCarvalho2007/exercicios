@@ -1,5 +1,5 @@
  #Verificador de números par, ímpar, negativo e positivo ou zero
-numero=float(input("digite um número:"))
+numero=float(input("Digite um número:"))
 if numero > 0 and numero % 2 == 0:
     print("Número é positivo e par")
 elif numero > 0 and numero % 3 == 0:
