@@ -1,5 +1,5 @@
-capital=float(input("digite a capital:"))
-tempo=float(input("digite o tempo:"))
-taxa=float(input("digite a taxa:"))
+capital=float(input("Digite o capital inicia:"))
+tempo=float(input("Digite o tempo de aplicação em meses:"))
+taxa=float(input("Digite a taxa:"))
 juros=(capital*taxa*tempo)/100
-print("a taxa de juros é:",juros,"")
+print("Total ganho em juros mensal é:",juros,)
