@@ -1,4 +1,4 @@
-nota = float(input("digite uma nota:"))
+nota = float(input("Digite uma nota:"))
 if nota >=9:
     print("A")
 elif nota >=7.5:
