@@ -1,6 +1,6 @@
 print("bom dia")
 num1=int(input("digite um numero: "))
-num2=int(input("digite outro numero; "))
+num2=int(input("digite outro numero: "))
 while num2<num1:
 	num1=int(input("digite um numero: "))
 	num2=int(input("digite outro numero: "))
